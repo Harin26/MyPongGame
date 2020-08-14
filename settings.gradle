@@ -1,0 +1,2 @@
+rootProject.name='MyPongGame'
+include ':app'
